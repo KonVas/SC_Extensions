@@ -1,0 +1,4 @@
+* SuperCollider Personal Extensions
+This repository contains a set of personal pseudo UGens used as
+extensions for the SuperCollider programming language. These are
+available to download and used at your own risk.
